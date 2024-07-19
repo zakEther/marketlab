@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.out
+
+*.DS_Store
+
+.env
